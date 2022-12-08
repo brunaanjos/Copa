@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    background-color: whitesmoke;
+    color: rgb(172, 13, 37);
+}
+h2{
+    text-align: center;
+    color: rgb(0, 128, 0);
+    background-color: whitesmoke;    
+}
+h3{ 
+    text-align: center;
+    color: rgb(250, 255, 250);
+}
+body{
+    background-color: rgb(154, 26, 47) !important;
+}
+link{
+    text-align: center;
+}
+th{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: whitesmoke;
+    font-size: x-large;
+    text-align: center;
+}
+
+.img-slide {
+    margin-top: 50px;
+    height: 600px;
+    width: 1400px;
+    border-radius: 5px;
+}
+
+
